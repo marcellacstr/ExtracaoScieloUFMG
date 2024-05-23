@@ -3,7 +3,7 @@ O presente repositório colaciona os códigos utilizados para a extração de da
 
 ##REQUISITOS 
 
-São requisitos de intalação para rodar o script 
+São requisitos de instalação para rodar o script 
 1. Instalação correta do Python
 2. Instalação correta do Pycharm
 3. Excel
