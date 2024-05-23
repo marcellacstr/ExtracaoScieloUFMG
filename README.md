@@ -99,7 +99,7 @@ As variáveis a serem alteradas estão no código e devem seguir a orientação 
     caminho_webDriver = '/Users/Marcella/PycharmProjects/webscrapper101/chromedriver'
 
 
-Depois disso, se terá uma planilha no excel recheada de dados que podem render análises bibliométricas produtivas 
+Depois disso, será obtida uma planilha no excel recheada de dados que podem render análises bibliométricas produtivas 
 
 Qualquer dificuldade, entre em contato conosco pelos emails indicados na publicação do artigo. 
 
